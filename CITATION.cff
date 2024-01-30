@@ -1,0 +1,19 @@
+cff-version: 1.1.0
+title: Sanitized Code Book - Enhancing Software Quality and Maintainability.
+abstract: This document delves into the principles and significance of writing sanitized code, emphasizing the pivotal role it plays in enhancing software quality and maintainability. Exploring the multifaceted aspects of clean and efficient code, the guide highlights the positive impact on software maintenance, readability, collaboration, debugging, and future modifications. By understanding the importance of adopting sanitized code practices, developers can pave the way for a smoother development process, effective teamwork, simplified debugging procedures, and increased adaptability for evolving software requirements. This comprehensive overview serves as a valuable resource for those seeking to optimize their coding practices and elevate the overall quality of software development.
+message: "If you use this book, please cite it as below."
+authors:
+  - family-names: Fonseca
+    given-names: Clebson
+    orcid: https://orcid.org/0000-0003-4076-9650
+version: 0.0.1
+date-released: 2024-01-30
+repository-code: https://github.com/whoisclebs/SanitizedCodeBook
+references:
+- type: book
+  title: Citation File Format
+  authors:
+      - family-names: Fonseca
+        given-names: Clebson
+        orcid: https://orcid.org/0000-0003-4076-9650
+license: MIT
